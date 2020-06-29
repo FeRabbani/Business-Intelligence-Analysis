@@ -1,3 +1,3 @@
-# Business-Intelligenet-Analysis
-In the following, we will do some exploratory Data Analysis on our data and try to gain some insights that
-will help in some decision making of the business.
+# Performing Business Analysis Using Python and Data Science Tools
+In this Repository I have done some exploratory Data Analysis on e-commerce data and tried to gain some insights that
+helps in some decision making of the business.
